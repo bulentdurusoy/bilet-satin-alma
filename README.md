@@ -1,5 +1,6 @@
 # 🚌 Bilet Satın Alma Sistemi
-
+# PDF oluşturulması için lütfen drive bağlantısından vendor klasörünü indiriniz: https://drive.google.com/drive/folders/1OdTGQsVaoR9ivHG9qbv3093otZaqoJPd?usp=sharing
+# bilet-satın-alma/vendor olacak şekilde ana dizine vendor klasörünü taşıyınız !!!
 PHP & SQLite tabanlı otobüs bileti satış, firma ve kupon yönetim sistemi.
 
 ## ⚙️ Kurulum (XAMPP)
